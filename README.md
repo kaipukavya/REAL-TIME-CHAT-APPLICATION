@@ -16,3 +16,10 @@ MENTOR:NEELA SANTOSH
 
 *TOOLS:Visual studio code,google
 
+*OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/3c770033-ab89-4ba7-902c-813f449acfac)
+![Image](https://github.com/user-attachments/assets/f7180014-94c5-4d1f-a15e-c18eed63a0f6)
+![Image](https://github.com/user-attachments/assets/a5439d33-6579-4162-8fb5-a69c11cc69b8)
+![Image](https://github.com/user-attachments/assets/296e8629-4d31-4a84-bafe-9795e1f52b9e)
+
